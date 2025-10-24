@@ -42,8 +42,11 @@
 }
 
 
-.student {
+.student, .singer {
+  margin: 10px;
+  padding: 14px;
+  border: 3px solid salmon;
   color: blue;
   font-size: 18px;
-  align-items: center;
+  /* align-items: center; */
 }
